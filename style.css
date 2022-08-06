@@ -1,0 +1,77 @@
+
+.container{
+    background-color: rgba(20, 35, 40, 0.4);
+    margin: 10px 40px;
+}
+.başlık{
+    text-align: center;
+    color: white;
+}
+#flix{
+    color: red;
+}
+.container2{
+    background-color: rgba(7, 18, 22, 0.9);
+    /* margin-left: 585px; */
+    /* margin-right: 585px; */
+    width: 320px;
+    margin: auto;
+}
+.container2 label{
+    color: white;
+    margin-left: 15px;
+}
+.container2 p{
+    color: white;
+    margin-left: 15px;
+}
+#name{
+    width: 280px;
+    height: 40px;
+    margin-left: 15px;
+}
+#age{
+    width: 280px;
+    height: 40px;
+    margin-left: 15px;
+}
+#email{
+    width: 280px;
+    height: 40px;
+    margin-left: 15px;
+}
+#content{
+    margin-left: 15px;
+}
+#seçim1{
+    margin-left: 15px;
+}
+#seçim2{
+    margin-left: 15px;
+}
+#seçim3{
+    margin-left: 15px;
+}
+#male{
+    margin-left: 15px;
+}
+#female{
+    margin-left: 15px;
+}
+#other{
+    margin-left: 15px;
+}
+#yorum{
+    margin-left: 15px;
+    height: 70px;
+}
+#submit{
+    background-color: red;
+    border-radius: 15px;
+    border-color: red;
+    display: flex;
+    margin: auto;
+    margin-bottom: 80px;
+    color: white;
+    
+}
